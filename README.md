@@ -1,8 +1,8 @@
-# reprograma-desafio-backend
+# {reprograma} Desafio Back-end março/2022
 
 ---
 
-{reprograma} - calculadora freela
+Calculadora freela
 Projeto desenvolvido em HTML, JavaScript e CSS para calcular o valor da hora de trabalho.
 
 ---
